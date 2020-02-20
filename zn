@@ -1,0 +1,4 @@
+# Create a ZipFile Object and load sample.zip in it
+with ZipFile('ngrok-stable-linux-amd64.zip', 'r') as zipObj:
+# Extract all the contents of zip file in current directory
+zipObj.extractall()
