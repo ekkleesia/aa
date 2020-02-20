@@ -1,1 +1,1 @@
-python .local/lib/python3.6/site-packages/virtualenv.py
+python3 .local/lib/python3.6/site-packages/virtualenv.py env
