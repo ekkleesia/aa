@@ -1,1 +1,1 @@
-python3 .local/lib/python3.6/site-packages/virtualenv.py env
+python3 /home/box/.local/lib/python3.6/site-packages/virtualenv.py env
